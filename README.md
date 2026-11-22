@@ -1,4 +1,5 @@
-## Hi there 👋
+## 一个跑在本机的电脑操作助手。读写文件、执行命令、操作界面、联网搜索——全部在你自己的机器上。
+
 
 <!--
 **FA-Agent/FA-Agent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
